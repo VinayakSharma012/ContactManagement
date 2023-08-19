@@ -1,7 +1,5 @@
 /* Project  by :
 * VINAYAK SHARMA
-* SPARSH SHUKLA
-* GAURAV MISHRA
  */
 package ContactManagement;
 import ContactManagement.Register;
